@@ -1,0 +1,9 @@
+Package: Calculator
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: ashish.akyasari@walchandsangli.ac.in
+Description: To run a simple calculator
